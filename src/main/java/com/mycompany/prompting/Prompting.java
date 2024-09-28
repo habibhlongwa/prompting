@@ -37,6 +37,8 @@ public class Prompting {
                  
                System.out.println("age:"+ age);
                System.out.println("10 percentage of salary:"+ percentage);
+               
+               System.out.println("whats your name");
                          
     }
 }
